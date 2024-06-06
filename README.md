@@ -1,7 +1,8 @@
 ### Hi there 👋
 
-I'm a student who is learning programming specifically backend web development and wants to get an internship and move abroad!
+I'm a student who is learning programming sepcifically web development.
 
-- 🔭 I’m currently working on my school project and my portfolio project.
-- 🌱 I’m currently learning web development.
+- 🏫 I'm a student at Auston University Myanmar.
+- 📍 I live in Bangkok, Thailand.
+- 🔭 I’m currently working on my school project.
 - 💬 Ask me about songs, playlists, study abroad.
